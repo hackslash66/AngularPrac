@@ -12,6 +12,7 @@ import { Component } from '@angular/core';
       <h2>EPHMRS first commitasdfasdfa </h2>
       <h2>another attempt</h2>
       </div>
+      <div>blank</div>
     
   `,
   styles: []
