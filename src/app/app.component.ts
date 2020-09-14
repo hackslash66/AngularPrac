@@ -10,6 +10,7 @@ import { Component } from '@angular/core';
       </h1>
       <h2>Helloooooooo</h2>
       <h2>EPHMRS first commitasdfasdfa </h2>
+      <h2>another attempt</h2>
       </div>
     
   `,
